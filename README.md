@@ -19,3 +19,7 @@ or
 
 `summon.js`
 Summons one NFT per available class (11 in total)
+
+`adventure.js`
+Adventures with all summoners.
+Edit the list in code with your summon id's.
